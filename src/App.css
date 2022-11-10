@@ -4,7 +4,9 @@
   width: 100vw;
 }
 
-
+.main-cont{
+padding:1rem;
+}
 .header {
   display: flex;
   /* border: 1px solid black; */
