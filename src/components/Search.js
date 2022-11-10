@@ -20,6 +20,7 @@ const Search = () => {
   },  [query ,isClicked]);
 
   return (
+    <h3>Mr.Foddy</h3>
     <div className = "main-cont">
       <div className="header">
         <input
