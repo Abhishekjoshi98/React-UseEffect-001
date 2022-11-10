@@ -21,7 +21,7 @@ const Search = () => {
 
   return (
    <>
-    <h3 className="top-heading">Mr.Foddy</h3>
+    <h2 className="top-heading">Mr.SpicyFoddy</h2>
     <div className = "main-cont">
       <div className="header">
         <input
