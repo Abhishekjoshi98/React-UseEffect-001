@@ -50,6 +50,7 @@ const Search = () => {
         })}
       </div>
     </div>
+   </div>
   );
 };
 
